@@ -1,0 +1,19 @@
+{
+  "name": "mail_man",
+  "version": "1.0.0",
+  "description": "Backend system for mail service",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryBoTumLic/mail_man.git"
+  },
+  "author": "AndisDSaunders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryBoTumLic/mail_man/issues"
+  },
+  "homepage": "https://github.com/HarryBoTumLic/mail_man#readme"
+}
